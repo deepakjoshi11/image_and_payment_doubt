@@ -1,0 +1,31 @@
+{
+  "name": "final-product-deepakjoshi11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/final-product-deepakjoshi11.git"
+  },
+  "author": "Deepak Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/final-product-deepakjoshi11/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/final-product-deepakjoshi11#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "formidable": "^2.0.1",
+    "https": "^1.0.0",
+    "mongoose": "^6.1.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
